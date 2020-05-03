@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2013\Projects\VendorPortal\VendorPortal\bin\VendorPortal.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\VendorPortal\VendorPortal\bin\VendorPortal.dll
+c:\users\administrator\documents\visual studio 2013\Projects\VendorPortal\VendorPortal\bin\VendorPortal.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\VendorPortal\VendorPortal\obj\Debug\VendorPortal.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\VendorPortal\VendorPortal\obj\Debug\VendorPortal.dll
+c:\users\administrator\documents\visual studio 2013\Projects\VendorPortal\VendorPortal\obj\Debug\VendorPortal.pdb
+C:\Softwares\VendorPortal\VendorPortal\bin\VendorPortal.dll.config
+C:\Softwares\VendorPortal\VendorPortal\bin\VendorPortal.dll
+C:\Softwares\VendorPortal\VendorPortal\bin\VendorPortal.pdb
+C:\Softwares\VendorPortal\VendorPortal\bin\SAPConnectionManager.dll
+C:\Softwares\VendorPortal\VendorPortal\bin\sapnco.dll
+C:\Softwares\VendorPortal\VendorPortal\bin\sapnco_utils.dll
+C:\Softwares\VendorPortal\VendorPortal\obj\Debug\VendorPortal.dll
+C:\Softwares\VendorPortal\VendorPortal\obj\Debug\VendorPortal.pdb
+C:\Softwares\VendorPortal\VendorPortal\obj\Debug\VendorPortal.csprojResolveAssemblyReference.cache
